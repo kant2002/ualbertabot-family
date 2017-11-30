@@ -1,0 +1,22 @@
+[submodule "ualbertabot"]
+	path = ualbertabot
+	url = https://github.com/davechurchill/ualbertabot
+[submodule "ualbertabot-2017"]
+	path = ualbertabot-2017
+	url = https://github.com/davechurchill/ualbertabot
+	branch = sparcraft_update
+[submodule "odin"]
+	path = odin
+	url = https://github.com/Plankton555/Odin
+[submodule "terranuab"]
+	path = terranuab
+	url = https://github.com/filipbober/scaiCode
+[submodule "steamhammer"]
+	path = steamhammer
+	url = https://github.com/kant2002/steamhammer
+[submodule "overkill"]
+	path = overkill
+	url = https://github.com/sijiaxu/Overkill
+[submodule "nova"]
+	path = nova
+	url = https://bitbucket.org/auriarte/nova
